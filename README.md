@@ -20,7 +20,6 @@ Ce projet, réalisé dans le cadre du Master 1 à l'USSEIN en collaboration avec
 ![Trait de côte 2](trait0012.png)
 
 **Profils de plage générés :**
-![Profil 1](profil1.png)
 ![Profil 2](profilzz.png)
 
 **Mission de terrain à Carabane :**
