@@ -17,7 +17,7 @@ Ce projet, réalisé dans le cadre du Master 1 à l'USSEIN en collaboration avec
 
 **Analyse du trait de côte (Code Python) :**
 ![Trait de côte 1](traitz1225.png)
-![Trait de côte 2](trait0012.png)
+
 
 **Profils de plage générés :**
 ![Profil 2](profilzz.png)
