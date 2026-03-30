@@ -1,7 +1,7 @@
 # 🌊 Analyse de l'Érosion Côtière et Dynamique du Littoral - Île de Carabane
 
 ### 📌 Présentation du Projet
-Ce projet, réalisé dans le cadre du Master 1 à l'USSEIN en collaboration avec l'ONG JVE, porte sur l'étude de la vulnérabilité environnementale de l'île de Carabane (Estuaire de la Casamance). L'objectif est de quantifier le recul du trait de côte et d'identifier les pressions anthropiques et naturelles subies par le littoral.
+Ce projet, réalisé dans le cadre du Master 1 à l'USSEIN en collaboration avec l'ONG JVE(Jeunes Volontaires pour l’Environnement ), porte sur l'étude de la vulnérabilité environnementale de l'île de Carabane (Estuaire de la Casamance). L'objectif est de quantifier le recul du trait de côte et d'identifier les pressions anthropiques et naturelles subies par le littoral.
 
 ### 🛠️ Méthodologie & Outils
 * **Télédétection** : Acquisition et traitement d'images satellitaires pour le suivi temporel du littoral.
